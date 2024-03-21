@@ -1,0 +1,7 @@
+.blogItem {
+    margin-top: 10px;
+    text-align: center;
+}
+.blogItem h2{
+    cursor: pointer;
+}
